@@ -5,3 +5,4 @@
 # konfliktus
 # tesztkörnyezet
 # próba branch
+# pallas
