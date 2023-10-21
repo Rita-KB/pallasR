@@ -6,3 +6,4 @@
 # tesztkörnyezet
 # próba branch
 # pallas
+# gyakorlás
