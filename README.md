@@ -2,4 +2,4 @@
 # github böngésző
 # próba böngésző
 # github vs
-# konfliktus vs code
+# konfliktus vs code  új
