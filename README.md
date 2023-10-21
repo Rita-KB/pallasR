@@ -1,1 +1,2 @@
 # pallasR
+# github böngésző
